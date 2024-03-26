@@ -2,7 +2,7 @@
 
 This section explains how to showcase a Gallery of photos along with a Title using Xamarin Carousel View (SfCarousel) Control.
 
-# Create a Simple SfCarousel
+## Create a Simple SfCarousel
 The Xamarin Carousel View (SfCarousel) control is configured entirely in C# code or by using XAML markup. The following steps explain on how to create a SfCarousel and configure its elements,
 
 *   Adding namespace for the added assemblies.
@@ -17,7 +17,7 @@ xmlns:carousel="clr-namespace:Syncfusion.SfCarousel.XForms;assembly=Syncfusion.S
     <carousel:SfCarousel x:Name="carousel" />
 ```
 
-# Add Carousel Items
+## Add Carousel Items
 We can populate the carousel’s items by using any one of the following ways,
 
 *   Through SfCarouselItem
